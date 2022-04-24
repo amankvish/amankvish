@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman K Vish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="center" alt="gif" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="320"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankvish&label=Profile%20views&color=0e75b6&style=flat" alt="amankvish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankvish" alt="amankvish" /></a> </p>
