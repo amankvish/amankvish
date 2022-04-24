@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman K Vish</h1>
+<h1 align="center">Hi 👋, I'm Aman Vishwakarma </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="center" alt="gif" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="320"/>
